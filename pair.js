@@ -83,8 +83,8 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "ʟᴀᴋᴀ-ᴍᴅ",
-thumbnailUrl: "https://i.ibb.co/9k6p84z6/466.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vb10Jv560eBfnX6Jaa3Y",
+thumbnailUrl: "https://i.ibb.co/pjqsbyyW/7755.jpg",
+sourceUrl: "https://whatsapp.com/channel/0029Vb9WF4nJJhzeUCFS6M0u",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -98,9 +98,9 @@ renderLargerThumbnail: true
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ʟᴀᴋᴀ-ᴍᴅ",
-thumbnailUrl: "https://i.ibb.co/9k6p84z6/466.jpg",
-sourceUrl: "https://whatsapp.com",
+title: "ᴄʜᴀᴍᴀ-ᴍᴅ",
+thumbnailUrl: "https://i.ibb.co/pjqsbyyW/7755.jpg",
+sourceUrl: "https://whatsapp.com/channel/0029Vb9WF4nJJhzeUCFS6M0u",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
