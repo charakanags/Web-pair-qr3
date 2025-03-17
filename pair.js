@@ -82,7 +82,7 @@ var randomItem = selectRandomItem(items);
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ʟᴀᴋᴀ-ᴍᴅ",
+title: "ᴄʜᴀᴍᴀ-ᴍᴅ",
 thumbnailUrl: "https://i.ibb.co/pjqsbyyW/7755.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029Vb9WF4nJJhzeUCFS6M0u",
 mediaType: 1,
