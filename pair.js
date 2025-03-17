@@ -77,7 +77,7 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "CHAMA-MD=" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `> ශෙයා කරන්න එපා \n\n> ᴅᴏ ɴᴏᴛ ꜱʜᴇʀᴇ ᴛʜɪꜱ \n\n> இதை யாரிடமும் பகிர வேண்டாம்\n\n> ʀɪᴘᴏ 🤣🤣🤣🤣🤣\n\n> ᴏᴡɴᴇʀ 94783314361\n\n\n> ᴘᴏᴡᴇʀᴅ ʙʏ chamindu- ᴍᴅ`; 
+                        let desc = `> ශෙයා කරන්න එපා \n\n> ᴅᴏ ɴᴏᴛ ꜱʜᴇʀᴇ ᴛʜɪꜱ \n\n> இதை யாரிடமும் பகிர வேண்டாம்\n\n> ʀɪᴘᴏ :- github.com\n\n>whats app channel:-https://whatsapp.com/channel/0029Vb9WF4nJJhzeUCFS6M0u\n\n> ᴏᴡɴᴇʀ :-94783314361\n\n\n> ᴘᴏᴡᴇʀᴅ ʙʏ chamindu- ᴍᴅ`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
@@ -93,7 +93,7 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `> ශෙයා කරන්න එපා \n\n> ᴅᴏ ɴᴏᴛ ꜱʜᴇʀᴇ ᴛʜɪꜱ \n\n> இதை யாரிடமும் பகிர வேண்டாம்\n\n> ʀɪᴘᴏ https://github.com\n\n> ᴏᴡɴᴇʀ 94783314361\n\n\n> ᴘᴏᴡᴇʀᴅ ʙʏ chamindu- ᴍᴅ`;
+                            let desc = `> ශෙයා කරන්න එපා \n\n> ᴅᴏ ɴᴏᴛ ꜱʜᴇʀᴇ ᴛʜɪꜱ \n\n> இதை யாரிடமும் பகிர வேண்டாம்\n\n> ʀɪᴘᴏ https://github.com\n\nwhats app channel:-https://whatsapp.com/channel/0029Vb9WF4nJJhzeUCFS6M0u\n\n> ᴏᴡɴᴇʀ 94783314361\n\n\n> ᴘᴏᴡᴇʀᴅ ʙʏ chamindu- ᴍᴅ`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
